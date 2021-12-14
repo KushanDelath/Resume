@@ -1,0 +1,118 @@
+// Part 01
+
+<h3>Skills</h3>
+    <div>
+        <table>
+            <tr>
+                <td>HTML5</td>
+                <td>✰✰✰✰✰</td>
+            </tr>
+            <tr>
+                <td>CSS</td>
+                <td>✰✰✰✰✰</td>
+            </tr>
+            <tr>
+                <td>JavaScript</td>
+                <td>✰✰✰✰</td>
+            </tr>
+            <tr>
+                <td>Java</td>
+                <td>✰✰✰✰</td>
+            </tr>
+            <tr>
+                <td>C#</td>
+                <td>✰✰✰</td>
+            </tr>
+        </table>
+    </div>
+    <div>
+        <table>
+            <tr>
+                <td>Object-Oriented Programming</td>
+                <td>✰✰✰✰</td>
+            </tr>
+            <tr>
+                <td>Design Patterns</td>
+                <td>✰✰✰</td>
+            </tr>
+        </table>
+    </div>
+
+// Part 2
+
+ <table>
+        <div>
+            <tr>
+                <td>HTML5</td>
+                <td>✰✰✰✰✰</td>
+            </tr>
+            <tr>
+                <td>CSS</td>
+                <td>✰✰✰✰✰</td>
+            </tr>
+            <tr>
+                <td>JavaScript</td>
+                <td>✰✰✰✰</td>
+            </tr>
+            <tr>
+                <td>Java</td>
+                <td>✰✰✰✰</td>
+            </tr>
+            <tr>
+                <td>C#</td>
+                <td>✰✰✰</td>
+            </tr>
+        </div>
+        <div>
+            <tr>
+                <td>Object-Oriented Programming</td>
+                <td>✰✰✰✰</td>
+            </tr>
+            <tr>
+                <td>Design Patterns</td>
+                <td>✰✰✰</td>
+            </tr>
+        </div>
+    </table>
+
+// Part 3
+<table>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td>HTML5</td>
+                        <td>✰✰✰✰✰</td>
+                    </tr>
+                    <tr>
+                        <td>CSS</td>
+                        <td>✰✰✰✰✰</td>
+                    </tr>
+                    <tr>
+                        <td>JavaScript</td>
+                        <td>✰✰✰✰</td>
+                    </tr>
+                    <tr>
+                        <td>Java</td>
+                        <td>✰✰✰✰</td>
+                    </tr>
+                    <tr>
+                        <td>C#</td>
+                        <td>✰✰✰</td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table>
+                    <tr>
+                        <td>Object-Oriented Programming</td>
+                        <td>✰✰✰✰</td>
+                    </tr>
+                    <tr>
+                        <td>Design Patterns</td>
+                        <td>✰✰✰</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
